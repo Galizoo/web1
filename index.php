@@ -16,6 +16,7 @@ include("./pages/includes/cabecera.php");
     <div class="fondo1">
     <div class="cubo">
       <h1>Bienvenido</h1>
+      <h1>Bienvenido no se que mas poner ya que esto va a  ser un pequeño cambio para el git hub</h1>
       <p>En la UPC formamos profesionales diferentes
       Conoce cómo en la UPC, la creatividad y la innovación se potencian al intercambiar una gran diversidad de ideas:</p>
       <h1>Vive la libertad en UPC</h1>
